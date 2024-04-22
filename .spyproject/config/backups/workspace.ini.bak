@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['main.py', 'funciones\\funciones_LU.py', 'funciones\\flujos.py', 'funciones\\graficas.py', 'D:\\proyecto_sectei_temps\\balance_porLUB.py', 'D:\\proyecto_sectei_temps\\Reporte_2024.py', 'D:\\proyecto_sectei_temps\\funciones\\flujos_calor.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
